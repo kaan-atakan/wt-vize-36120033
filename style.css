@@ -1,0 +1,37 @@
+body {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+header.main {
+    width: 100%;
+    background-color: burlywood;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+nav.main {
+    width: 100%;
+    background-color: aqua;
+}
+
+div.content {
+    height: 20rem;
+    align-items: stretch;
+    display: flex;
+}
+
+div.content aside.content {
+    width: 15%;
+    background-color: burlywood;
+}
+
+div.content article.main-content {
+    width: 70%;
+    background-color: cadetblue;
+}
+
+footer.main {
+    width: 100%;
+    background-color: chocolate;
+}
